@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coffeeShopQuestion/static/css/main.1cd24cac.css",
+    "main.js": "/coffeeShopQuestion/static/js/main.f0bd1489.js",
+    "static/js/787.72d8f8ce.chunk.js": "/coffeeShopQuestion/static/js/787.72d8f8ce.chunk.js",
+    "index.html": "/coffeeShopQuestion/index.html",
+    "main.1cd24cac.css.map": "/coffeeShopQuestion/static/css/main.1cd24cac.css.map",
+    "main.f0bd1489.js.map": "/coffeeShopQuestion/static/js/main.f0bd1489.js.map",
+    "787.72d8f8ce.chunk.js.map": "/coffeeShopQuestion/static/js/787.72d8f8ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd24cac.css",
+    "static/js/main.f0bd1489.js"
+  ]
+}
